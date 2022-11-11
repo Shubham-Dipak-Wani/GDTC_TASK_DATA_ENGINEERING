@@ -26,8 +26,7 @@
 #### Life and Motor Insurance premium are marginally increased by 2%
 #### What will be overall change in % of the Premium Amount Collected for all these Customer?
 ### Task #9
-#### Business wants to give discount to customer who are loyal and under stress due to Covid
-### 19. They have laid down an eligibility Criteria as follow
+#### Business wants to give discount to customer who are loyal and under stress due to Covid 19. They have laid down an eligibility Criteria as follow
 #### IF CUSTOMER_TENURE > 60 AND EMPLOYMENT_STATUS = “N” AND NO_OF_FAMILY_MEMBERS >=4 THEN 1 ELSE 0
 #### Create a new column “ELIGIBLE_FOR_DISCOUNT” and find it mean.
 ### Task #10
